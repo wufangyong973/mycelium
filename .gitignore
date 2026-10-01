@@ -12,6 +12,7 @@ coverage.json
 coverage.lcov
 htmlcov/
 .context/
+temp_auto_push.bat
 *.egg-info/
 dist/
 **/dist/
@@ -27,3 +28,5 @@ proof/fixtures/af002/_hf_af002_index.json
 notes/
 graphify-out/
 STRATEGY_AND_IMPLEMENTATION_PLAN.md
+.gitignore
+branch_structure.json
